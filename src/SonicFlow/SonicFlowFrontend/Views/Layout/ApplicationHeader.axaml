@@ -1,0 +1,18 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="SonicFlowFrontend.Views.Layout.ApplicationHeader">
+    <StackPanel Margin="20">
+        <ProgressBar  Margin="0 10" Height="20" 
+                      Minimum="0" Maximum="100" Value="14"
+                      ShowProgressText="True"/>
+        <Rectangle Fill="Green" VerticalAlignment="Stretch" Height="10"/>
+        <ProgressBar  Margin="0 0" Height="5"
+                      Minimum="0" Maximum="100" Value="92"
+                      Foreground="DarkGreen"
+                      ShowProgressText="False"
+                      VerticalAlignment="Bottom"/>
+    </StackPanel>
+</UserControl>

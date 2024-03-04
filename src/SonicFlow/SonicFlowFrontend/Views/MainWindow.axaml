@@ -3,6 +3,7 @@
         xmlns:vm="using:SonicFlowFrontend.ViewModels"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:layout="clr-namespace:SonicFlowFrontend.Views.Layout;assembly=SonicFlowFrontend"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="SonicFlowFrontend.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
@@ -29,10 +30,12 @@
             </ExperimentalAcrylicBorder.Material>
         </ExperimentalAcrylicBorder>
         
-        <Panel Margin="40">
-            <Button HorizontalAlignment="Right" VerticalAlignment="Top">       
-                <PathIcon Data="{StaticResource store_microsoft_regular}" /> 
-            </Button>
-        </Panel>
+        <DockPanel >
+            <layout:ApplicationHeader Height="100" DockPanel.Dock="Top"></layout:ApplicationHeader>
+            <layout:ApplicationDrawer Width="100" DockPanel.Dock="Left"></layout:ApplicationDrawer>
+            <layout:ApplicationFooter Height="100" DockPanel.Dock="Bottom"></layout:ApplicationFooter>
+            <Rectangle Fill="Orange" Width="100" DockPanel.Dock="Right" Opacity="0.5"/>
+            <Rectangle Fill="Gray" />
+        </DockPanel>
     </Panel>
 </Window>

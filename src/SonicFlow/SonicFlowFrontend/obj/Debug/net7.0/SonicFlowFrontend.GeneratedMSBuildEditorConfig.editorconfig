@@ -23,5 +23,14 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Icons.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/ApplicationDrawer.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/ApplicationFooter.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/ApplicationHeader.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
