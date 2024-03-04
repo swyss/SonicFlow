@@ -3,6 +3,8 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="SonicFlowFrontend/App.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Icons.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
         <entry key="SonicFlowFrontend/Views/MainWindow.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
       </map>
     </option>
