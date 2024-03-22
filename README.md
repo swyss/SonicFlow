@@ -5,9 +5,6 @@
 
 ![Static Badge](https://img.shields.io/badge/submodules%20-%20blue?logo=git)
 
-![Static Badge](https://img.shields.io/badge/docker:prod%20%5Bport%5D%20-%20darkgreen?logo=docker)
-![Static Badge](https://img.shields.io/badge/docker:test%20%5Bport%5D%20-%20forestgreen?logo=docker)
-![Static Badge](https://img.shields.io/badge/docker:dev%20%5Bport%5D%20-%20yellowgreen?logo=docker)
 
 ![rating](https://img.shields.io/badge/prio-★★★★☆-purple) 
 
@@ -21,7 +18,6 @@
 ![GitHub release](https://img.shields.io/github/release/your-username/your-project-name.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-project-name.svg)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/your-project-name.svg)
-![Build Status](https://img.shields.io/travis/your-username/your-project-name/master.svg)
 ![Coverage Status](https://coveralls.io/repos/github/your-username/your-project-name/badge.svg?branch=master)
 
 A brief description of what this project does and who it's for.

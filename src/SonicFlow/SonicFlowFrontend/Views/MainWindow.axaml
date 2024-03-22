@@ -3,11 +3,15 @@
         xmlns:vm="using:SonicFlowFrontend.ViewModels"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:layout="clr-namespace:SonicFlowFrontend.Views.Layout;assembly=SonicFlowFrontend"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="SonicFlowFrontend.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
-        Title="SonicFlowFrontend">
+        Title="SonicFlowFrontend"
+        TransparencyLevelHint="AcrylicBlur"
+        Background="Transparent"
+        ExtendClientAreaToDecorationsHint="True">
 
     <Design.DataContext>
         <!-- This only sets the DataContext for the previewer in an IDE,
@@ -15,6 +19,23 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-
+    <Panel>
+        <ExperimentalAcrylicBorder IsHitTestVisible="False">
+            <ExperimentalAcrylicBorder.Material>
+                <ExperimentalAcrylicMaterial
+                    BackgroundSource="Digger"
+                    TintColor="Black"
+                    TintOpacity="1"
+                    MaterialOpacity="0.65" />
+            </ExperimentalAcrylicBorder.Material>
+        </ExperimentalAcrylicBorder>
+        
+        <DockPanel >
+            <layout:ApplicationHeader Height="100" DockPanel.Dock="Top"></layout:ApplicationHeader>
+            <layout:ApplicationDrawer Width="100" DockPanel.Dock="Left"></layout:ApplicationDrawer>
+            <layout:ApplicationFooter Height="100" DockPanel.Dock="Bottom"></layout:ApplicationFooter>
+            <Rectangle Fill="Orange" Width="100" DockPanel.Dock="Right" Opacity="0.5"/>
+            <Rectangle Fill="Gray" />
+        </DockPanel>
+    </Panel>
 </Window>
