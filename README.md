@@ -18,11 +18,11 @@ One or two sentences summarizing the project and its purpose.
 
 ## Statistics and Key Information
 
-![GitHub license](https://img.shields.io/github/license/swyss/software-engineering.svg)
-![GitHub release](https://img.shields.io/github/release/swyss/software-engineering.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/swyss/software-engineering.svg)
-![GitHub issues](https://img.shields.io/github/issues/swyss/software-engineering.svg)
-![Coverage Status](https://coveralls.io/repos/github/swyss/software-engineering/badge.svg?branch=master)
+![GitHub license](https://img.shields.io/github/license/swyss/sonicflow.svg)
+![GitHub release](https://img.shields.io/github/release/swyss/sonicflow.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/swyss/sonicflow.svg)
+![GitHub issues](https://img.shields.io/github/issues/swyss/sonicflow.svg)
+![Coverage Status](https://coveralls.io/repos/github/swyss/sonicflow/badge.svg?branch=master)
 
 ![semver](https://img.shields.io/badge/semver-0.0.0-blue)
 
