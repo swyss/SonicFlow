@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="SonicFlowFrontend/App.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Icons.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Header.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/ApplicationDrawer.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/ApplicationFooter.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/ApplicationHeader.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/Header.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/MainWindow.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
