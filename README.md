@@ -8,9 +8,7 @@
 
 ![rating](https://img.shields.io/badge/prio-★★★★☆-purple) 
 
-<p align="center">
-  <img src="./Assets/logo.png" width="350" title="LOGO" alt="no logo">
-</p>
+
 
 [comment]: ![logo](./Assets/logo.png)
 
