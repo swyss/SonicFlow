@@ -1,11 +1,10 @@
 # Project Name
-![Static Badge](https://img.shields.io/badge/GENERAL%20-%20domain?label=domain&color=red&style=for-the-badge)![Static Badge](https://img.shields.io/badge/HomeSphere%20-%20domain?label=domain&color=darkgreen&style=for-the-badge)![Static Badge](https://img.shields.io/badge/HAS%20-%20domain?label=domain&color=darkblue&style=for-the-badge)![Static Badge](https://img.shields.io/badge/SHOW%20-%20domain?label=domain&color=yellow&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SHOW%20-%20domain?label=domain&color=yellow&style=for-the-badge)
 
-![Static Badge](https://img.shields.io/badge/submodules%20-%20blue?logo=git&style=for-the-badge)
-
-![Static Badge](https://img.shields.io/badge/prio%20-%20%E2%98%85%E2%98%85%E2%98%85%20(6%2F10)%20-%20?style=for-the-badge&color=purple)
+![Static Badge](https://img.shields.io/badge/prio%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%20(8%2F10)%20-%20?style=for-the-badge&color=purple)
 
 ## Logo/Icon
+<img src="./assets/logo.png" width="200">
 
 ## Brief Description
 
