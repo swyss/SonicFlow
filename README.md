@@ -5,13 +5,6 @@
 
 ![Static Badge](https://img.shields.io/badge/prio%20-%20%E2%98%85%E2%98%85%E2%98%85%20(6%2F10)%20-%20?style=for-the-badge&color=purple)
 
-> [more details](/_template/src/README.md)
-<p>
-  <a href="https://github.com/swyss">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
 ## Logo/Icon
 
 ## Brief Description
@@ -60,4 +53,3 @@ One or two sentences summarizing the project and its purpose.
 
 [![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
-## CD/CI
