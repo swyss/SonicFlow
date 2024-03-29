@@ -1,97 +1,55 @@
+# Project Name
+![Static Badge](https://img.shields.io/badge/GENERAL%20-%20domain?label=domain&color=red&style=for-the-badge)![Static Badge](https://img.shields.io/badge/HomeSphere%20-%20domain?label=domain&color=darkgreen&style=for-the-badge)![Static Badge](https://img.shields.io/badge/HAS%20-%20domain?label=domain&color=darkblue&style=for-the-badge)![Static Badge](https://img.shields.io/badge/SHOW%20-%20domain?label=domain&color=yellow&style=for-the-badge)
 
-# SonicFlow
-![Static Badge](https://img.shields.io/badge/SHOW%20-%20domain?label=domain&color=yellow)
+![Static Badge](https://img.shields.io/badge/submodules%20-%20blue?logo=git&style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/prio%20-%20%E2%98%85%E2%98%85%E2%98%85%20(6%2F10)%20-%20?style=for-the-badge&color=purple)
+
+## Logo/Icon
+
+## Brief Description
+
+One or two sentences summarizing the project and its purpose.
+
+## Key Features
+
+- Feature 1: A brief description
+- Feature 2: A brief description
+- Feature 3: A brief description
+
+## Statistics and Key Information
+
+![GitHub license](https://img.shields.io/github/license/swyss/software-engineering.svg)
+![GitHub release](https://img.shields.io/github/release/swyss/software-engineering.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/swyss/software-engineering.svg)
+![GitHub issues](https://img.shields.io/github/issues/swyss/software-engineering.svg)
+![Coverage Status](https://coveralls.io/repos/github/swyss/software-engineering/badge.svg?branch=master)
+
 ![semver](https://img.shields.io/badge/semver-0.0.0-blue)
 
-![Static Badge](https://img.shields.io/badge/submodules%20-%20blue?logo=git)
 
 
-![rating](https://img.shields.io/badge/prio-★★★★☆-purple) 
+## Software-Engineering
+> [SWE](./Engineering/readme.md)
 
-
-
-[comment]: ![logo](./Assets/logo.png)
-
-![GitHub license](https://img.shields.io/github/license/your-username/your-project-name.svg)
-![GitHub release](https://img.shields.io/github/release/your-username/your-project-name.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-project-name.svg)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-project-name.svg)
-![Coverage Status](https://coveralls.io/repos/github/your-username/your-project-name/badge.svg?branch=master)
-
-A brief description of what this project does and who it's for.
-
-For Details [see Project Info](info.md)
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-
-### Installing
-
-A step-by-step series of examples that tell you how to get a development environment running.
-
-> Steps
-
-
-## Running the Tests
-
-> Explain how to run the automated tests for this system.
-
-### Break down into end-to-end tests
-
-> Explain what these tests test and why.
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system.
-
-### Enviroment
-
-> Docker
-
-### Configuration
-
-> Link to config-file
-
-## Components
+## TechStack
 
 ### Frontend
 
-### Backend
-
-### Database
-
-## Built With
-
-### Frontend
-
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ### Backend
 
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
-### Database
+### DB
+
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 
-## Contributing
+## Tools
 
-Please read [CONTRIBUTING.md](https://github.com/your-username/your-project-name/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+## Enviroment
 
-## Versioning
+[![project enviroment logos](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your-username/your-project-name/tags).
-
-## Authors
-
-* swyss - *Initial work* - [swyss](https://github.com/swyss)
-
-See also the list of [contributors](https://github.com/your-username/your-project-name/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
