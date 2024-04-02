@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/prio%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%20(8%2F10)%20-%20?style=for-the-badge&color=purple)
 
 ## Logo/Icon
-<img src="./assets/logo.png" width="200">
+<img src="./Assets/logo.png" width="200">
 
 ## Brief Description
 
