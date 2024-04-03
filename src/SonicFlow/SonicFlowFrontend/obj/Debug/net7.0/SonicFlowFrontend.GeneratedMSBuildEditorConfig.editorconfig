@@ -20,6 +20,15 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/LayoutItems/ApplicationDrawer.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/LayoutItems/ApplicationFooter.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/LayoutItems/ApplicationHeader.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [D:/dev/com/SonicFlow/src/SonicFlow/SonicFlowFrontend/Views/Layout/MainLayout.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 

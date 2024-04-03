@@ -4,6 +4,10 @@
     <option name="projectPerEditor">
       <map>
         <entry key="SonicFlowFrontend/App.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/ViewModels/ApplicationHeader.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/LayoutItems/ApplicationDrawer.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/LayoutItems/ApplicationFooter.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
+        <entry key="SonicFlowFrontend/Views/Layout/LayoutItems/ApplicationHeader.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
         <entry key="SonicFlowFrontend/Views/Layout/MainLayout.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
         <entry key="SonicFlowFrontend/Views/MainWindow.axaml" value="SonicFlowFrontend/SonicFlowFrontend.csproj" />
       </map>

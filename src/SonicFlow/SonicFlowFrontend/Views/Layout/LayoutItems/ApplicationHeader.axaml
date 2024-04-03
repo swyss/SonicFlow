@@ -1,0 +1,23 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="SonicFlowFrontend.Views.Layout.LayoutItems.ApplicationHeader">
+    <Grid ColumnDefinitions="*" RowDefinitions="25,5,25,5,25,5,5"  Margin="4">
+
+        <Rectangle Fill="YellowGreen"   Grid.Row="0"/> <!-- TopAppBar -->
+        <Rectangle Fill="Transparent"  Grid.Row="1"/> <!-- Spacer -->
+        <Rectangle Fill="YellowGreen"   Grid.Row="2"/> <!-- Menu -->
+        <Rectangle Fill="Transparent"  Grid.Row="3"/> <!-- Spacer -->
+        <Rectangle Fill="YellowGreen"   Grid.Row="4"/> <!-- Alarms -->
+        <Rectangle Fill="Transparent"  Grid.Row="5"/> <!-- Spacer -->
+        <ProgressBar  Margin="0 0" 
+                      Minimum="0" Maximum="100" Value="92"
+                      Foreground="DarkGreen"
+                      Background="Transparent"
+                      ShowProgressText="False"
+                      Grid.Row="6"/> <!-- Progress/ -->
+    </Grid>
+
+</UserControl>

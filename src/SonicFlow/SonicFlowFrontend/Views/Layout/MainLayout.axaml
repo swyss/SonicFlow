@@ -2,11 +2,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:layoutitems="clr-namespace:SonicFlowFrontend.Views.Layout.LayoutItems"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="SonicFlowFrontend.Views.Layout.MainLayout">
     
-    <StackPanel Margin="20">
-        <Button Click="ClickHandler">Press Me!</Button>
-        <TextBlock Margin="0 10" x:Name="message">Ready...</TextBlock>
-    </StackPanel>
+
+    <DockPanel >
+        <layoutitems:ApplicationHeader Height="100" DockPanel.Dock="Top"></layoutitems:ApplicationHeader>
+        <layoutitems:ApplicationDrawer Width="100" DockPanel.Dock="Left"></layoutitems:ApplicationDrawer>
+        <layoutitems:ApplicationFooter Height="100" DockPanel.Dock="Bottom"></layoutitems:ApplicationFooter>
+        <Rectangle Fill="Orange" Width="100" DockPanel.Dock="Right" Opacity="0.5"/>
+        <Rectangle Fill="Gray" />
+    </DockPanel>
 </UserControl>

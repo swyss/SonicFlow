@@ -11,8 +11,4 @@ public partial class MainLayout : UserControl
     {
         InitializeComponent();
     }
-    public void ClickHandler(object sender, RoutedEventArgs args)
-    {
-        message.Text = "Button clicked!";
-    }
 }
