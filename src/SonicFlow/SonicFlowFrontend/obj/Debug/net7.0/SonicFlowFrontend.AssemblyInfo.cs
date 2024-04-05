@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SonicFlowFrontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7dd60aa6b9995dfa47d96f5973df2a2231cdc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38f2c833083851d8b4a9adf7e77156cb7f8a607")]
 [assembly: System.Reflection.AssemblyProductAttribute("SonicFlowFrontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SonicFlowFrontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
